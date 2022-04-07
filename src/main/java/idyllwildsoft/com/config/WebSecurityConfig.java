@@ -1,4 +1,4 @@
-package whatever.you.wish.backend.config;
+package idyllwildsoft.com.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

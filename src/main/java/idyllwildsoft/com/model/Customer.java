@@ -1,4 +1,4 @@
-package whatever.you.wish.backend.model;
+package idyllwildsoft.com.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

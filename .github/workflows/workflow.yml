@@ -37,7 +37,7 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
       
       - name: Build the Docker image
-        run: mvn spring-boot:build-image 
+        run: docker build -t patrickoceandigital/backend:latest
       - name: push the Docker image
         run: docker push patrickoceandigital/backend:latest
       

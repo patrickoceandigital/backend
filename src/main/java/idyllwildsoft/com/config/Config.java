@@ -1,4 +1,4 @@
-package whatever.you.wish.backend.config;
+package idyllwildsoft.com.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
