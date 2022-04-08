@@ -1,4 +1,0 @@
-server:
-  cors:
-    origins:
-      - http://idyllwildsoft.com
